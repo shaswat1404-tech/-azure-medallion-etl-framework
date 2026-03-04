@@ -26,7 +26,7 @@ This project delivers a unified operational analytics platform for the Senior Ho
 │                        SOURCE LAYER                         │
 │                                                             │
 │  Property Mgmt APIs     On-Prem SQL Server     PostgreSQL   │
-│  (MA, RM, etc.         (ADF Self-Hosted IR    (MDM: master │
+│  (MA, RM, etc.         (ADF Self-Hosted IR    (MDM: master  │
 │    )                     → Blob staging)        & mapping   │
 │                                                  tables)    │
 └────────────────────────┬────────────────────────────────────┘
